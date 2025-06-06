@@ -156,4 +156,3 @@ print(f"b) Factor de carga equivalente en ANFO: {b:.2f} kg/m³")
 
 c = blast_emultex.calculate_cost_per_m3()
 print(f"c) Costo de la tronadura por m³: ${c:,.2f}")
-
